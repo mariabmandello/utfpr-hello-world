@@ -1,7 +1,7 @@
-#Trabalho 
-##Matéria: Introdução a Engenharia de Software
+# Trabalho 
+## Matéria: Introdução a Engenharia de Software
 
-##Exercício 1071 URI
+    *Exercício 1071 URI
 #include<stdio.h>
 int main()
 
