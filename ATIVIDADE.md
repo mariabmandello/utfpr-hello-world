@@ -3,9 +3,11 @@
 
     *Exercício 1071 URI
 #include<stdio.h>
+
 int main()
 
 {
+    
     int x, y, i, s=0, t, stop = 0;
 
     while (stop = 1)
